@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../VM1.false.block-2.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>VM1</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+<ud-information attribute-name="age">35</ud-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T2" time="0.019995715955748176"/>
+<tli id="T3" time="5.712109524692062"/>
+<tli id="T4" time="11.237592367130473"/>
+<tli id="T5" time="16.276512787979016"/>
+<tli id="T6" time="23.09505192888914"/>
+<tli id="T7" time="27.940680428832117"/>
+<tli id="T1" time="29.22"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="VM1 [v]"><event start="T2" end="T3">On the picture I see a construction site. </event>
+<event start="T3" end="T4">Um, there, there is an excavator machine </event>
+<event start="T4" end="T5">and there is also a person standing in front of that </event>
+<event start="T5" end="T6">and there are, this is in front of a house </event>
+<event start="T6" end="T7">and there are other houses beside it as well. </event>
+<event start="T7" end="T1">Um </event>
+</tier></basic-body>
+</basic-transcription>
