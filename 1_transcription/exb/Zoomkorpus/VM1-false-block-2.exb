@@ -2,14 +2,14 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../VM1.false.block-2.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/VM1-false-block-2.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
 <abbreviation>VM1</abbreviation>
 <sex value="m"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
 <ud-speaker-information>
-<ud-information attribute-name="age">35</ud-information></ud-speaker-information>
+<ud-information attribute-name="age">35</ud-information><ud-information attribute-name="Language">English</ud-information><ud-information attribute-name="First language">Persian</ud-information></ud-speaker-information>
 <comment></comment>
 </speaker>
 </speakertable></head>
