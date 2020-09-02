@@ -2,53 +2,21 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name>Zoomkorpus</project-name><transcription-name>A98-true-bird-1</transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/A98-true-bird-1.wav"/><ud-meta-information><ud-information attribute-name="vis">true</ud-information><ud-information attribute-name="img">bird</ud-information><ud-information attribute-name="rec">1</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
-<abbreviation>A98</abbreviation>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/A98-true-bird-1.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>X</abbreviation>
 <sex value="m"/>
-<languages-used><language lang="eng"/></languages-used>
+<languages-used></languages-used>
 <l1></l1>
 <l2></l2>
 <ud-speaker-information>
-<ud-information attribute-name="age"></ud-information></ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 </speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
-<tli id="T2" time="1.6998446779351302"/>
-<tli id="T3" time="3.186375513933303"/>
-<tli id="T4" time="4.619577889447236"/>
-<tli id="T5" time="6.619577889447236"/>
-<tli id="T6" time="7.879280036546368"/>
-<tli id="T7" time="9.239155778894473"/>
-<tli id="T8" time="11.072321608040202"/>
-<tli id="T9" time="13.032142530836"/>
-<tli id="T10" time="14.165555047967109"/>
-<tli id="T11" time="16.13852535404294"/>
-<tli id="T12" time="17.60505801735952"/>
-<tli id="T13" time="21.058075833714025"/>
-<tli id="T14" time="23.058075833714025"/>
-<tli id="T15" time="25.177699406121516"/>
-<tli id="T16" time="28.937355870260394"/>
-<tli id="T17" time="29.843939698492463"/>
-<tli id="T18" time="29.99725902238465"/>
 <tli id="T1" time="43.776"/>
 </common-timeline>
-<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="A98 [v]"><event start="T2" end="T3"> Yes, so </event>
-<event start="T3" end="T4">eh there is </event>
-<event start="T4" end="T5">a white bird </event>
-<event start="T5" end="T6">eh</event>
-<event start="T6" end="T7">sitting near </event>
-<event start="T7" end="T8">a very smaller stream </event>
-<event start="T8" end="T9">a small river </event>
-<event start="T9" end="T10">it looks like </event>
-<event start="T10" end="T11">in a wood </event>
-<event start="T11" end="T12">and uhm</event>
-<event start="T12" end="T13">it's definitly in a city because I see </event>
-<event start="T13" end="T14">some fences </event>
-<event start="T14" end="T15">so uhm</event>
-<event start="T15" end="T16">and the the bird is sitting on that there's a small </event>
-<event start="T16" end="T17">and the </event>
-</tier></basic-body>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="X [v]"></tier></basic-body>
 </basic-transcription>
