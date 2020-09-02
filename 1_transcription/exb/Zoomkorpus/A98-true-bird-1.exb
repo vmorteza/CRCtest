@@ -3,20 +3,26 @@
 <basic-transcription>
 <head>
 <meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/A98-true-bird-1.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
-<abbreviation>X</abbreviation>
+<abbreviation>A98</abbreviation>
 <sex value="m"/>
-<languages-used></languages-used>
+<languages-used><language lang="eng"/></languages-used>
 <l1></l1>
 <l2></l2>
 <ud-speaker-information>
-</ud-speaker-information>
+<ud-information attribute-name="age"></ud-information></ud-speaker-information>
 <comment></comment>
 </speaker>
 </speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
+<tli id="T2" time="12.972148012791228"/>
+<tli id="T3" time="22.824581087254455"/>
+<tli id="T4" time="31.577114664230244"/>
 <tli id="T1" time="43.776"/>
 </common-timeline>
-<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="X [v]"></tier></basic-body>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="A98 [v]"><event start="T0" end="T2">Yes so uh there is a white bird uh sitting near a very smaller stream a small river </event>
+<event start="T2" end="T3">it looks like in a wood and um it's definitly in a city because I see some fences</event>
+<event start="T3" end="T4">so um and the the bird is sitting on that there is a small ring on the on one of the foots </event>
+</tier></basic-body>
 </basic-transcription>
