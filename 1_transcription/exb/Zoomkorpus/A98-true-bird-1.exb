@@ -2,7 +2,7 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/A98-true-bird-1.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<meta-information><project-name>Zoomkorpus</project-name><transcription-name>A98-true-bird-1</transcription-name><referenced-file url="../../../0_audio/wav/Zoomkorpus/A98-true-bird-1.wav"/><ud-meta-information><ud-information attribute-name="vis">true</ud-information><ud-information attribute-name="img">bird</ud-information><ud-information attribute-name="rec">1</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
 <abbreviation>A98</abbreviation>
 <sex value="m"/>
 <languages-used><language lang="eng"/></languages-used>
